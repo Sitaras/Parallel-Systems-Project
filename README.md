@@ -9,4 +9,4 @@
 
 ### Team 
 - [Giannis Kapetangeorgis](https://github.com/giannhskp)
-- [Dimitrios Sitaras](https://github.com/Sitaras)
+- [Dimitris Sitaras](https://github.com/Sitaras)
