@@ -8,5 +8,5 @@
 ```
 
 ### Team 
-- [giannhskp](https://github.com/giannhskp)
-- [sitaras](https://github.com/Sitaras)
+- [Giannis Kapetangeorgis](https://github.com/giannhskp)
+- [Dimitrios Sitaras](https://github.com/Sitaras)
